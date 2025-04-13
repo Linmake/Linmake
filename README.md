@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Linmake.Linmake)
 
 <!--
 **Linmake/Linmake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
